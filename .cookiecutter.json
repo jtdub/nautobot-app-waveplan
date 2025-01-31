@@ -1,0 +1,26 @@
+{
+    "cookiecutter": {
+        "codeowner_github_usernames": "jtdub",
+        "full_name": "James Williams",
+        "email": "james.williams@networktocode.com",
+        "github_org": "jtdub",
+        "app_name": "nautobot_waveplan",
+        "verbose_name": "Waveplan",
+        "app_slug": "waveplan",
+        "project_slug": "nautobot-app-waveplan",
+        "repo_url": "https://github.com/jtdub/nautobot-app-waveplan",
+        "base_url": "waveplan",
+        "min_nautobot_version": "2.0.0",
+        "max_nautobot_version": "2.9999",
+        "camel_name": "Waveplan",
+        "project_short_description": "Waveplan",
+        "model_class_name": "None",
+        "open_source_license": "Apache-2.0",
+        "docs_base_url": "https://docs.nautobot.com",
+        "docs_app_url": "https://docs.nautobot.com/projects/waveplan/en/latest",
+        "_template": "nautobot-app",
+        "_output_dir": "/Users/jtdub/Documents/code/cookiecutter-nautobot-app",
+        "_repo_dir": "nautobot-app",
+        "_checkout": null
+    }
+}
